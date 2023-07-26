@@ -2,7 +2,7 @@
 
 Este script de Python utiliza la biblioteca "requests" para hacer llamadas a la API de Alpha Vantage y obtener noticias sobre diversos temas relacionados con blockchain, mercados financieros, economía macro, finanzas y tecnología. Luego, utiliza la biblioteca "pandas" para manipular los datos y mostrarlos en un DataFrame. El objetivo es mostrar las noticias más recientes en esos temas durante la última hora.
 
-Aquí está una descripción paso a paso del script:
+Descripción paso a paso del script:
 
 Importar las bibliotecas necesarias:
 
